@@ -17,4 +17,4 @@ with open(file_name , 'w') as json_file:
     json.dump(data,json_file,indent=4)
 
 
-print(f'created : {json_file}')
+print(f'created : {json_file.name}')
