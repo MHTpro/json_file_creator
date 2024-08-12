@@ -7,3 +7,6 @@ data = {
     'age' : 22,
     'skills': ['flutter','python','c#','unity','blender','photoshop']
 }
+
+# create a name for json file
+file_name = 'data.json'
